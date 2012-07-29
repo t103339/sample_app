@@ -14,3 +14,8 @@
 /log/*.log
 /tmp
 .DS_Store
+bundler_stubs/
+
+# Ignore other unneeded files.
+doc/
+*.swp
